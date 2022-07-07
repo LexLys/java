@@ -34,5 +34,7 @@ public class Main {
 // git status                       - проверяем
 
 // Загрузите на удаленный репозиторий лишь основную ветку вашего проекта.
+// git remote add origin https://github.com/LexLys/java.git  - подключаемся к удаленному репозиторию
+// git push -u origin main   - записываем ветку main в удаленный репозиторий
 
 
